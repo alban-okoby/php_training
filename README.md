@@ -1,2 +1,2 @@
 # php_trainning
-Trainning in PHP
+Training in PHP
